@@ -1,0 +1,44 @@
+# ===============================
+# MATLAB temporary & backup files
+# ===============================
+*.asv
+*.m~
+*.autosave
+*.slxc
+*.tmp
+
+# ===============================
+# MATLAB generated folders
+# ===============================
+slprj/
+codegen/
+mex/
+cache/
+
+# ===============================
+# App Designer / Live Editor
+# ===============================
+*.mlx.autosave
+*.mlapp.autosave
+
+# ===============================
+# Compiled files (DO NOT COMMIT)
+# ===============================
+*.exe
+*.app
+*.ctf
+*.prj
+
+# ===============================
+# OS / Editor junk
+# ===============================
+.DS_Store
+Thumbs.db
+*.swp
+
+# ===============================
+# Data & output
+# ===============================
+*.xlsx
+*.png
+*.xyz
